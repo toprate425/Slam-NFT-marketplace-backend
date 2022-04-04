@@ -1,0 +1,40 @@
+{ 
+    "_id" : ObjectId("61da13f9e8d7be1618aa0dfb"), 
+    "name" : "Trippy Stuff", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da15197f42913750e92c3e"), 
+    "name" : "Ape Planet 2K21", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da153e7ff4c32b042d4a84"), 
+    "name" : "Future", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da1542bea6931794ad8ed2"), 
+    "name" : "Dog everywhere", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da154666cb832f90a8cc5a"), 
+    "name" : "Bear", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da154ab9516642c4089138"), 
+    "name" : "Ape Planet ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da1557676e762fbc753da7"), 
+    "name" : "Monster", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61da155d3709c30308015378"), 
+    "name" : "Dragon", 
+    "__v" : NumberInt(0)
+}

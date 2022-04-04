@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("61db03282a4cf04788043207"), 
+    "name" : "Art", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61db036b3d726a0e28289339"), 
+    "name" : "Trending", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61db0379630ebd03647b3bb1"), 
+    "name" : "Games", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61db0385fffe582d844a9cf6"), 
+    "name" : "Music", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61db03911a459d1ed0cd6ace"), 
+    "name" : "Photography", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61db039c5a9cb746b4f4d34a"), 
+    "name" : "Punks", 
+    "__v" : NumberInt(0)
+}
