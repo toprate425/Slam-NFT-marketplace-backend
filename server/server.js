@@ -13,7 +13,6 @@ import collectRoute from './routes/collect.routes'
 import cateogoryRoute from './routes/category.routes'
 import config from './config/config';
 require("dotenv").config()
-console.log("new server", config.mongoUri)
 
 const MongoClient = require("mongodb").MongoClient;
 
